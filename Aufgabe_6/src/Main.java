@@ -4,9 +4,10 @@ public class Main {
 
             for (int y = 1; y <= 10; y++) {
 
-                System.out.println(x * y + "\t");
-                //test
+                System.out.print(x * y + "\t");
             }
+
+            System.out.println();
         }
 
     }
