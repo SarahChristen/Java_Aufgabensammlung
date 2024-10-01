@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Aufgabe_1/Aufgabe_1.iml" filepath="$PROJECT_DIR$/Aufgabe_1/Aufgabe_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabe_2/Aufgabe_2.iml" filepath="$PROJECT_DIR$/Aufgabe_2/Aufgabe_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabe_3/Aufgabe_3.iml" filepath="$PROJECT_DIR$/Aufgabe_3/Aufgabe_3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabe_4/Aufgabe_4.iml" filepath="$PROJECT_DIR$/Aufgabe_4/Aufgabe_4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabe_5/Aufgabe_5.iml" filepath="$PROJECT_DIR$/Aufgabe_5/Aufgabe_5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabe_6/Aufgabe_6.iml" filepath="$PROJECT_DIR$/Aufgabe_6/Aufgabe_6.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Aufgabensammlung.iml" filepath="$PROJECT_DIR$/Aufgabensammlung.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
+    </modules>
+  </component>
+</project>
