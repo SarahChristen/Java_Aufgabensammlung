@@ -19,7 +19,7 @@ public class Main {
             System.out.println("Eingabefehler. Bitte geben Sie eine Ganzzahl ein.");
         } catch (Exception ex) {
             // unknown Exception occured
-            System.out.println("Unbekannter Fehler: " + ex.toString());
+            System.out.println("Unbekannter Fehler: " + ex);
         }
     }
 }

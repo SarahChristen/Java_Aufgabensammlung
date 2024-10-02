@@ -42,7 +42,7 @@ public class Main {
         } catch (NumberFormatException ex) {
             System.out.println("Eingabefehler. Bitte gib eine Ganzzahl ein.");
         } catch (Exception ex) {
-            System.out.println("Unbekannter Fehler: " + ex.toString());
+            System.out.println("Unbekannter Fehler: " + ex);
         }
     }
 }

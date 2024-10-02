@@ -1,4 +1,4 @@
-public class Main {
+/*public class Main {
     public static void main(String[] args) {
         do {
             doSomething(); // kann i manipulieren
@@ -9,4 +9,4 @@ public class Main {
             doSomething();
         }
     }
-}
+}*/

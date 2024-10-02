@@ -2,18 +2,19 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Aufgabe_1/Aufgabe_1.iml" filepath="$PROJECT_DIR$/Aufgabe_1/Aufgabe_1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Aufgabe_10/Aufgabe_10.iml" filepath="$PROJECT_DIR$/Aufgabe_10/Aufgabe_10.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Aufgabe_11/Aufgabe_11.iml" filepath="$PROJECT_DIR$/Aufgabe_11/Aufgabe_11.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Aufgabe_12/Aufgabe_12.iml" filepath="$PROJECT_DIR$/Aufgabe_12/Aufgabe_12.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Aufgabe_2/Aufgabe_2.iml" filepath="$PROJECT_DIR$/Aufgabe_2/Aufgabe_2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Aufgabe_3/Aufgabe_3.iml" filepath="$PROJECT_DIR$/Aufgabe_3/Aufgabe_3.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Aufgabe_4/Aufgabe_4.iml" filepath="$PROJECT_DIR$/Aufgabe_4/Aufgabe_4.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Aufgabe_5/Aufgabe_5.iml" filepath="$PROJECT_DIR$/Aufgabe_5/Aufgabe_5.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Aufgabe_6/Aufgabe_6.iml" filepath="$PROJECT_DIR$/Aufgabe_6/Aufgabe_6.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Aufgabe_7/Aufgabe_7.iml" filepath="$PROJECT_DIR$/Aufgabe_7/Aufgabe_7.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Aufgabe_8/Aufgabe_8.iml" filepath="$PROJECT_DIR$/Aufgabe_8/Aufgabe_8.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Aufgabe_9/Aufgabe_9.iml" filepath="$PROJECT_DIR$/Aufgabe_9/Aufgabe_9.iml" />
+      <module fileurl="file://$PROJECT_DIR$/01_Addierer/01_Addierer.iml" filepath="$PROJECT_DIR$/01_Addierer/01_Addierer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/02_SekundenMonat/02_SekundenMonat.iml" filepath="$PROJECT_DIR$/02_SekundenMonat/02_SekundenMonat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/03_Flussdiagramm1/03_Flussdiagramm1.iml" filepath="$PROJECT_DIR$/03_Flussdiagramm1/03_Flussdiagramm1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/04_Monatsnamen/04_Monatsnamen.iml" filepath="$PROJECT_DIR$/04_Monatsnamen/04_Monatsnamen.iml" />
+      <module fileurl="file://$PROJECT_DIR$/05_Flussdiagramm2/05_Flussdiagramm2.iml" filepath="$PROJECT_DIR$/05_Flussdiagramm2/05_Flussdiagramm2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/06_1x1/06_1x1.iml" filepath="$PROJECT_DIR$/06_1x1/06_1x1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/07_Vielfache3&amp;5/07_Vielfache3&amp;5.iml" filepath="$PROJECT_DIR$/07_Vielfache3&amp;5/07_Vielfache3&amp;5.iml" />
+      <module fileurl="file://$PROJECT_DIR$/08_Binär/08_Binär.iml" filepath="$PROJECT_DIR$/08_Binär/08_Binär.iml" />
+      <module fileurl="file://$PROJECT_DIR$/09_Quersumme/09_Quersumme.iml" filepath="$PROJECT_DIR$/09_Quersumme/09_Quersumme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/10_VielfacheQuersumme/10_VielfacheQuersumme.iml" filepath="$PROJECT_DIR$/10_VielfacheQuersumme/10_VielfacheQuersumme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/11_DiagonaleLinie/11_DiagonaleLinie.iml" filepath="$PROJECT_DIR$/11_DiagonaleLinie/11_DiagonaleLinie.iml" />
+      <module fileurl="file://$PROJECT_DIR$/12_do-while/12_do-while.iml" filepath="$PROJECT_DIR$/12_do-while/12_do-while.iml" />
+      <module fileurl="file://$PROJECT_DIR$/13_Schaltjahr/13_Schaltjahr.iml" filepath="$PROJECT_DIR$/13_Schaltjahr/13_Schaltjahr.iml" />
       <module fileurl="file://$PROJECT_DIR$/Aufgabensammlung.iml" filepath="$PROJECT_DIR$/Aufgabensammlung.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
     </modules>
