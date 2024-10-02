@@ -29,7 +29,7 @@ public class Main {
                     validInput = true;
                 } else {
                     System.out.println("Zahl 1 muss kleiner sein als Zahl 2.");
-                    System.out.println("");
+                    System.out.println();
                 }
             }
         } catch (NumberFormatException ex) {
