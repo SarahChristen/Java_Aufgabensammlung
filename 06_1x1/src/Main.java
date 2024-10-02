@@ -6,7 +6,6 @@ public class Main {
 
                 System.out.print(x * y + "\t");
             }
-
             System.out.println();
         }
 
