@@ -19,6 +19,8 @@
       <module fileurl="file://$PROJECT_DIR$/15_Zahlenraten/15_Zahlenraten.iml" filepath="$PROJECT_DIR$/15_Zahlenraten/15_Zahlenraten.iml" />
       <module fileurl="file://$PROJECT_DIR$/16_Vokale/16_Vokale.iml" filepath="$PROJECT_DIR$/16_Vokale/16_Vokale.iml" />
       <module fileurl="file://$PROJECT_DIR$/16_Vokale-VerbesserungChatGPT/16_Vokale-VerbesserungChatGPT.iml" filepath="$PROJECT_DIR$/16_Vokale-VerbesserungChatGPT/16_Vokale-VerbesserungChatGPT.iml" />
+      <module fileurl="file://$PROJECT_DIR$/17_WitzeAPI/17_WitzeAPI.iml" filepath="$PROJECT_DIR$/17_WitzeAPI/17_WitzeAPI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/18_Alter/18_Alter.iml" filepath="$PROJECT_DIR$/18_Alter/18_Alter.iml" />
       <module fileurl="file://$PROJECT_DIR$/Aufgabensammlung.iml" filepath="$PROJECT_DIR$/Aufgabensammlung.iml" />
       <module fileurl="file://$PROJECT_DIR$/HelloWorld/HelloWorld.iml" filepath="$PROJECT_DIR$/HelloWorld/HelloWorld.iml" />
     </modules>
