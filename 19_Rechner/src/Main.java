@@ -1,3 +1,4 @@
+import java.util.Objects;
 import java.util.Scanner;
 
 public class Main {
@@ -13,45 +14,46 @@ public class Main {
 
             System.out.println("Make your calculation (or press Q to quit): ");
             String input = s.nextLine();
-            input = input.replaceAll(" ", "");
-            int num1 = 0;
-            int num2 = 0;
+            if (Objects.equals(input, "q")) {
+                quit = true;
+            } else {
+                input = input.replaceAll(" ", "");
+                int num1 = 0;
+                int num2 = 0;
 
-            for (int i = 0; i < input.length(); i++) {
-                char symbol = input.charAt(i);
-                for (int j = 0; j < numbers.length; j++) {
-                    int num = symbol - '0';
-                    if (num == numbers[j]) {
-                        if (!foundSymbol) {
-                            num1 = num;
-                        } else {
-                            num2 = num;
+                for (int i = 0; i < input.length(); i++) {
+                    char symbol = input.charAt(i);
+                    for (int j = 0; j < numbers.length; j++) {
+                        int num = symbol - '0';
+                        if (num == numbers[j]) {
+                            if (!foundSymbol) {
+                                num1 = num;
+                            } else {
+                                num2 = num;
+                            }
                         }
                     }
+                    if (symbol == '+' || symbol == '-' || symbol == '*' || symbol == '/') {
+                        mathsymbol = symbol;
+                        foundSymbol = true;
+                    }
                 }
-                if (symbol == '+' || symbol == '-' || symbol == '*' || symbol == '/') {
-                    mathsymbol = symbol;
-                    foundSymbol = true;
+                switch (mathsymbol) {
+                    case '+':
+                        result = num1 + num2;
+                        break;
+                    case '-':
+                        result = num1 - num2;
+                        break;
+                    case '*':
+                        result = num1 * num2;
+                        break;
+                    case '/':
+                        result = num1 / num2;
+                        break;
                 }
+                System.out.println(result);
             }
-            switch (mathsymbol) {
-                case '+':
-                    result = num1 + num2;
-                    break;
-                case '-':
-                    result = num1 - num2;
-                    foundSymbol = true;
-                    break;
-                case '*':
-                    result = num1 * num2;
-                    foundSymbol = true;
-                    break;
-                case '/':
-                    result = num1 / num2;
-                    foundSymbol = true;
-                    break;
-            }
-            System.out.println(result);
         }
     }
 }
