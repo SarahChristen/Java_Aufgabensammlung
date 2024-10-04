@@ -27,9 +27,9 @@ public class Main {
                         int num = symbol - '0';
                         if (num == numbers[j]) {
                             if (!foundSymbol) {
-                                num1 = num;
+                                num1 = num1 * 10 + num;
                             } else {
-                                num2 = num;
+                                num2 = num2 * 10 + num;
                             }
                         }
                     }
